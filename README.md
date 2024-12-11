@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=d5x0JCZbAJs
 
 - [x] Make it deploy
 - [x] Scaffold basic ui with mock data
+- [x] Tidy up build process
 - [ ] Actually set up a database
 - [ ] Attach database to UI
 - [ ] Add authentication
